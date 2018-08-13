@@ -1,0 +1,8 @@
+dependencies:
+  - python=3.6
+  - ipython
+  - pytest
+  - pytorch=0.4
+  - numpy
+  - pip:
+    - tox 
